@@ -7,16 +7,16 @@
   "author": "Stephen Lemp",
   "authorEmail": "lempface@gmail.com",
   "authorUrl": "https://github.com/lempface",
-  "pluginUrl": "",
-  "manualUrl": "",
-  "sourceUrl": "",
+  "pluginUrl": "https://github.com/lempface/VCV-LempModules",
+  "manualUrl": "https://github.com/lempface/VCV-LempModules",
+  "sourceUrl": "https://github.com/lempface/VCV-LempModules",
   "donateUrl": "",
   "changelogUrl": "",
   "modules": [
     {
       "slug": "LempToggle",
       "name": "Toggle",
-      "description": "...",
+      "description": "Output a constant voltage between 0-10v with a latch button.",
       "tags": [
         "utility"
       ]
