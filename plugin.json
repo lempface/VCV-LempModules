@@ -1,0 +1,25 @@
+{
+  "slug": "LempModules",
+  "name": "Lemp Modules",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Lemp",
+  "author": "Stephen Lemp",
+  "authorEmail": "lempface@gmail.com",
+  "authorUrl": "https://github.com/lempface",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "LempToggle",
+      "name": "Toggle",
+      "description": "...",
+      "tags": [
+        "utility"
+      ]
+    }
+  ]
+}
