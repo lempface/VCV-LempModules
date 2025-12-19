@@ -13,5 +13,5 @@ The CV input for the button accepts a trigger and will toggle the state of the b
 
 The CV input for the trim pot will allow you to modulate the voltage output. This is clamped to a range of 0-10v.
 
-|![Toggle](/images/toggle.png)|![Toggle-Dark](/images/toggle-dark.png)|
-|-|-|
+<img src="/images/toggle.png" alt="Toggle" width="40"><img src="/images/toggle-dark.png" alt="Toggle-Dark" width="40">
+
